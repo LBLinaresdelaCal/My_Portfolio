@@ -1,4 +1,3 @@
-# My_Portfolio
 # Portafolio de Ciencia de Datos
 
 ¡Bienvenido a mi portafolio! Aquí encontrarás proyectos que demuestran mis habilidades en análisis de datos, visualización y ciencia de datos.  
